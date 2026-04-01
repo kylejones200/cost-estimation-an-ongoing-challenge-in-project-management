@@ -1,0 +1,75 @@
+# Cost Estimation: An Ongoing Challenge in Project Management Accurately estimating costs is a perennial challenge for project
+managers and business leaders alike. As we discussed in today's
+project...
+
+::::### Cost Estimation: An Ongoing Challenge in Project Management 
+
+Accurately estimating costs is a perennial challenge for project
+managers and business leaders alike. As we discussed in today's project
+management class, there are several reasons why developing precise and
+reliable cost estimates can be difficult.
+
+- Lack of familiarity: If a PM hasn't worked closely with their team
+  before, they may not have an accurate sense of task durations. There
+  is a natural tendency towards underestimation bias.
+- Complexity and uncertainty: The longer and more complex the project,
+  the more uncertainty builds up. External factors like market
+  conditions also play a role.
+- Poor quality inputs: The old adage "garbage in, garbage out" applies
+  here. If underlying data or assumptions are inaccurate, the output
+  will be unreliable.
+- Misalignment on priorities: Stakeholders may value different aspects
+  like cost, timelines, quality etc. Understanding core drivers is
+  key.
+
+
+<figcaption>Photo by <a
+href="https://unsplash.com/@jakubzerdzicki?utm_source=medium&amp;utm_medium=referral"
+class="markup--anchor markup--figure-anchor"
+data-href="https://unsplash.com/@jakubzerdzicki?utm_source=medium&amp;utm_medium=referral"
+rel="photo-creator noopener" target="_blank">Jakub Żerdzicki</a> on <a
+href="https://unsplash.com?utm_source=medium&amp;utm_medium=referral"
+class="markup--anchor markup--figure-anchor"
+data-href="https://unsplash.com?utm_source=medium&amp;utm_medium=referral"
+rel="photo-source noopener" target="_blank">Unsplash</a></figcaption>
+
+
+Techniques like parametric modeling can help create estimates by
+analyzing parameters like lines of code. But the limitations of the
+underlying data and model must be understood. No method is perfect.
+
+Providing estimate ranges rather than single figures offers a clearer
+picture of variability. For example, stating a cost estimate as \$1
+million, with a range of \$700k-\$1.5 million.
+
+While accurate estimates remain difficult, methodologies like Earned
+Value Management (EVM) help PMs monitor and control projects. EVM
+provides an objective view, moving beyond intuition into hard metrics on
+schedule and cost variance.
+
+I am a fan of using analytics and charts to help with project
+management. For example, Gantt charts can help visualize the progress
+you are making in an aspect of the project relative to the overall
+project objectives.
+
+[**The Benefits of Using Gantt Charts in Project Management**\
+*What is a Gantt chart and how does it
+work?*medium.com](https://medium.com/@kylejones_47003/the-benefits-of-using-gantt-charts-in-project-management-dc5990d504f6 "https://medium.com/@kylejones_47003/the-benefits-of-using-gantt-charts-in-project-management-dc5990d504f6")[](https://medium.com/@kylejones_47003/the-benefits-of-using-gantt-charts-in-project-management-dc5990d504f6)
+What techniques have you found most effective for estimating costs and
+tracking project performance?
+
+### Related Stories
+- [[The art (and science) of cost estimation and Earned Value Management
+  for project
+  management](https://medium.com/@kylejones_47003/the-art-and-science-of-cost-estimation-and-earned-value-management-for-project-management-47ee7b362341)]
+- [[A Project Manager's Guide to the Critical
+  Path](https://medium.com/@kylejones_47003/a-project-managers-guide-to-the-critical-path-1525cafa47ea)]
+- [[Keeping Your Project on Track: Tactics for Dealing with Schedule
+  Issues](https://medium.com/@kylejones_47003/keeping-your-project-on-track-tactics-for-dealing-with-schedule-issues-07d7c0bcc610)]
+::::::::::::By [Kyle Jones](https://medium.com/@kyle-t-jones) on
+[March 1, 2024](https://medium.com/p/8e3f1232ad0d).
+
+[Canonical
+link](https://medium.com/@kyle-t-jones/cost-estimation-an-ongoing-challenge-in-project-management-8e3f1232ad0d)
+
+Exported from [Medium](https://medium.com) on November 10, 2025.
